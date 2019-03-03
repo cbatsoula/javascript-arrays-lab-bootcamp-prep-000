@@ -20,9 +20,9 @@ function appendKitten(array, name){
 function prependKitten(array, name){
   return evenMoreKittens.concat(kittens);
 }
-function removeLastKitten(array, name){
-   
+function removeLastKitten(array){
+  return 
 }
-function removeFirstKitten(array, name){
+function removeFirstKitten(array){
   
 }
