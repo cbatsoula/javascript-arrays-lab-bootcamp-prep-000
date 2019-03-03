@@ -21,7 +21,7 @@ function prependKitten(array, name){
   return evenMoreKittens.concat(kittens);
 }
 function removeLastKitten(array, name){
-  
+   
 }
 function removeFirstKitten(array, name){
   
