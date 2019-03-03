@@ -18,5 +18,5 @@ function appendKitten(array, name){
  return kittens.concat(moreKittens);
 }
 function prependKitten(array, name){
-  
+  return evenMoreKittens.concat(kittens);
 }
